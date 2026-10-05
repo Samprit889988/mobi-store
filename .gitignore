@@ -1,0 +1,10 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local runtime data and logs (may contain customer/order records)
+store.db
+store.db-shm
+store.db-wal
+*.log
